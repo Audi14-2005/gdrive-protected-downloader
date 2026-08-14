@@ -1,3 +1,4 @@
+```markdown
 # 📥 GDrive Protected Downloader
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -41,3 +42,34 @@ At the top of the Developer Tools panel, click on the **Console** tab.
 If your browser warns you about pasting code, simply type the following exactly as written (including the quotes) into the console and press **Enter**:
 ```javascript
 'allow pasting'
+
+```
+
+### Step 5: Run the Script
+
+1. Copy the entire JavaScript code from the `Script.js` in this repository.
+2. Paste it into the **Console** window.
+3. Press **Enter** to execute the code.
+
+### Step 6: Save Your File
+
+Once the script runs, it will process the document. Depending on the file size and type, it may take a few seconds. The file should then automatically begin downloading to your computer!
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=../../issues) if you want to contribute.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+
+```
+
+### Tips for this README:
+*   **Badges:** The shields at the top are generated automatically via standard Markdown links. They make the repo look professional.
+*   **Placeholder:** If your JavaScript file is named something other than `main.js`, make sure to update that specific detail in **Step 5.1**.
+*   **Formatting:** Using headers (`##`), bold text (`**`), and blockquotes (`>`) creates a clean visual hierarchy that is easy for users to read on GitHub.
+
+```
