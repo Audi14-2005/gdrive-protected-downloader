@@ -1,2 +1,43 @@
-# gdrive-protected-downloader
-A lightweight JavaScript tool to bypass print/download restrictions on Google Drive view-only files, allowing you to save PDFs, images, and documents locally.
+# 📥 GDrive Protected Downloader
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+
+## 📖 Introduction
+
+**GDrive Protected Downloader** is a lightweight JavaScript utility designed to help you download "View-Only" files from Google Drive. 
+
+Sometimes, file owners disable the print, download, and copy options for their documents, PDFs, or images. This script bypasses those client-side UI restrictions, allowing you to easily extract and save the content directly to your local machine for offline viewing.
+
+---
+
+## ⚠️ Disclaimer
+
+> **Important:** This script is provided for **educational purposes and personal use only**. 
+> 
+> By using this code, you agree to respect the intellectual property and copyright of the original document owners. Do not use this tool to distribute, modify, or profit from content that does not belong to you. The maintainers of this repository are not responsible for any misuse of this tool.
+
+---
+
+## 🛠️ How to Use
+
+Using this script is quick and requires no installation. Just follow these steps in your web browser:
+
+### Step 1: Open the Document
+Open the restricted Google Drive file (PDF, Document, or Image) in your web browser and let it load completely.
+
+### Step 2: Open Developer Tools
+Open your browser's Developer Tools using one of the following methods:
+*   Press **`F12`** on your keyboard.
+*   **OR** right-click anywhere on the page and select **Inspect**.
+*   **OR** use the shortcut `Ctrl + Shift + I` (Windows/Linux) or `Cmd + Option + I` (Mac).
+
+### Step 3: Go to the Console
+At the top of the Developer Tools panel, click on the **Console** tab.
+
+### Step 4: Allow Pasting (Chrome Users)
+*Modern browsers have security features to prevent accidental malicious code execution.* 
+If your browser warns you about pasting code, simply type the following exactly as written (including the quotes) into the console and press **Enter**:
+```javascript
+'allow pasting'
