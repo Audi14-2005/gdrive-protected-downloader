@@ -65,10 +65,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 ```
-
-### Tips for this README:
-*   **Badges:** The shields at the top are generated automatically via standard Markdown links. They make the repo look professional.
-*   **Placeholder:** If your JavaScript file is named something other than `main.js`, make sure to update that specific detail in **Step 5.1**.
-*   **Formatting:** Using headers (`##`), bold text (`**`), and blockquotes (`>`) creates a clean visual hierarchy that is easy for users to read on GitHub.
-
-```
