@@ -1,4 +1,3 @@
-```markdown
 # 📥 GDrive Protected Downloader
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
